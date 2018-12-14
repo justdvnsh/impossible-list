@@ -2,7 +2,7 @@
 
 - Get into AI research .
 
-- Publish at least 2 papers .
+- Publish at least 2 papers at major conferences and at least 4-5 papers at tier 2 and 3 conferences .
 
 - Build a strong Data science Portfolio , with many well documented projects . Here are some project ideas I want done .
 
