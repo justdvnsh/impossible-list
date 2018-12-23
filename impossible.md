@@ -38,7 +38,9 @@
 
 	- Build a voice chat assistant for everyone , for calls .
 
-	- Build a positive and negative image classification . 
+	- Build a positive and negative image classification ( positive and negative sentiments ). 
+
+	- Build a japanese learning app .
 
 - Do at least 2 internships on-site and at-least 2 internships work-from-home. 
 
