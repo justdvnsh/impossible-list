@@ -42,6 +42,8 @@
 
 	- Build a japanese learning app .
 
+	- Build a english launguage difficult word predictor . 
+
 - Do at least 2 internships on-site and at-least 2 internships work-from-home. 
 
 - Start Nell-Studios and make a strong portfolio of projects .
