@@ -12,17 +12,21 @@
 
 	- Build a music generation app .
 
-	- Build a random song player based on mood .
+	- Build a random song player based on mood , desktop software .
 
 	- Build a writable face chat app .
 
 	- Build an image captioning app .
+	
+	- Build a pocket dermatologist app , which detects skin diseases .
 
 	- Build a question papers questions predicting app .
 
 	- Build a question answering app .
 
-	- Build Scrapy ( the apparel scraping app )
+	- Build a research paper summarization mobile app and chrome extention .
+	
+	- Build Scrapy ( the apparel scraping app ) , chrome extention and mobile app .
 
 	- Build Trader ( The stock price prediction app )
 
@@ -30,7 +34,7 @@
 
 	- Optimize Sharingan ( The eye health ecosystem app )
 
-	- Build a self-driving car model and test it in watch dogs or any playing environment.
+	- Build a self-driving car model and test it in watch dogs or any playing environment, with advance lane and curvature finding techniques .
 
 	- Build a neural network to mimic humans .
 
@@ -42,7 +46,7 @@
 
 	- Build a japanese learning app .
 
-	- Build a english launguage difficult word predictor . 
+	- Build a english launguage difficult word predictor , mobile app and chrome extention . 
 
 	- Build a video sequence generation app
 
