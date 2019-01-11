@@ -8,9 +8,9 @@
 
 	- Build a production ready news aggregator and bias detector app .
 
-	- Build a story and lyrics generation app .
+	- Build a story generation app .
 
-	- Build a music generation app .
+	- Build a rap machine, which will produce beats to freestyle rap on, and would also give suggestions of rhyming words and even complete the rap .
 
 	- Build a random song player based on mood , desktop software .
 
