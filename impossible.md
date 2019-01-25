@@ -8,7 +8,7 @@
 
 	- Build a production ready news aggregator and bias detector app .
 
-	- Build a story generation app .
+	- ~Build a story generation model~.
 
 	- Build a rap machine, which will produce beats to freestyle rap on, and would also give suggestions of rhyming words and even complete the rap .
 
@@ -26,6 +26,19 @@
 
 	- Build a research paper summarization mobile app and chrome extention .
 	
+		- ~Build research sumarization model~ [https://github.com/justdvnsh/Research-Summarizer](https://github.com/justdvnsh/Research-Summarizer)
+		```
+			The Model has been made , but due to lack of GPU, the model could not be trained on large dataset, making it not 
+			ready for production. Trying different methods to get it done. The current model using Seq2Seq with attention 
+			model, and sequence padding . Also tried bucketing with no luck.
+		```
+
+		- Build the api service 
+
+		- Build the mobile app (React Native)
+
+		- Build the chrome extention
+	
 	- Build Scrapy ( the apparel scraping app ) , chrome extention and mobile app .
 
 	- Build Trader ( The stock price prediction app )
@@ -34,7 +47,17 @@
 
 	- Optimize Sharingan ( The eye health ecosystem app )
 
-	- Build a self-driving car model and test it in watch dogs or any playing environment, with advance lane and curvature finding techniques .
+	- Build a self-driving car model .
+
+		- ~Build an advanced lane detection system with lane curvature findings~  [https://github.com/justdvnsh/automated-watch-dogs-2](https://github.com/justdvnsh.github.com/automated-watch-dogs-2)
+
+		- ~Build a vehicle classifier~ [https://github.com/justdvnsh/automated-watch-dogs-2](https://github.com/justdvnsh/automated-watch-dogs-2)
+
+		- Use the vehicle classifier to detect cars .
+
+		- Test the model and lane findings in watch dogs 2	
+
+		- Build a traffic sign classifier and traffic lights classifier.
 
 	- Build a neural network to mimic humans .
 
