@@ -77,6 +77,10 @@
 
 - Start Nell-Studios and make a strong portfolio of projects .
 
+- Start a research based blog .
+
+- Start a youtube channel .
+
 ---
 
 ## Creative 
