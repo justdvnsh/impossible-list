@@ -77,9 +77,13 @@
 
 - Start Nell-Studios and make a strong portfolio of projects .
 
-- Start a research based blog .
+- ~Start a research based blog~ . [https://justdvnsh.github.io](https://justdvnsh.github.io)
 
-- Start a youtube channel .
+	- Start uploading machine learning videos .
+
+- ~Start a youtube channel~ . [https://www.youtube.com/channel/UC0KVfZn2WD4aSR7qev7cTbQ?view_as=subscriber](https://www.youtube.com/channel/UC0KVfZn2WD4aSR7qev7cTbQ?view_as=subscriber)
+
+	- Start uploading machine learning blogs.
 
 ---
 
