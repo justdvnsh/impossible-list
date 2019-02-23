@@ -1,5 +1,7 @@
 ## Professional - Machine Learning !
 
+- Build Kalpna .
+
 - Get into AI research .
 
 - Publish at least 2 papers at major conferences and at least 4-5 papers at tier 2 and 3 conferences .
@@ -121,6 +123,8 @@
 
 - Hit the gym for 1 hour daily .
 
-- Become a better GK
+- Become a better defender .
+
+- ~Play in starting 11 of the school team as CB.~
 
 - Become a better freestyler .
